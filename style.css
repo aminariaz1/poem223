@@ -1,0 +1,41 @@
+body{
+    
+    text-align: center;
+    }
+    #name
+    {
+        height: 600px;
+        float: right;
+        margin-right: 370px;
+    }
+    #red{
+        margin-left: 300px;
+        background-color: white;
+        color: rgb(3, 3, 110);
+    }
+    #class{
+        margin-left: 300px; 
+    }
+    #green{
+        margin-left: 300px; 
+        background-color: white;
+        color :rgb(11, 167, 219);
+    }
+    #blue{
+        margin-left: 300px;
+        background-color: white;
+        color: rgb(11, 167, 219);
+    }
+    #pink{
+        margin-left: 300px;
+        background-color: white;
+        color: rgb(11, 167, 219);
+       
+    }
+    #yellow{
+        margin-left: 300px;
+        background-color: white;
+        color: rgb(11, 167,219);
+ 
+    }
+    
